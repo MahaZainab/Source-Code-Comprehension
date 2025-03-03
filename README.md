@@ -24,5 +24,6 @@ This paper has done construction process(from comments) and conduct semantic ana
 ## Aim:
 
 1. extract only Python code from the dataset.
-Start with a small subset of dataset  (~50 examples)
+
+2. Start with a small subset of dataset  (~50 examples)
 Try with an open-source LLM of your choice to generate the answers and compare with gold-annotated answers.
