@@ -14,7 +14,6 @@ Python Dataset: 70,085
 This paper has done construction process(from comments) and conduct semantic analysis.
 
 #### Note: 
-QA-based source code comprehension has direct
- use in education to facilitate programming learning,
+QA-based source code comprehension has direct use in education to facilitate programming learning,
  where a system automatically answers questions
  about codes that someone has read
