@@ -3,7 +3,7 @@
 ## Description:
 It is a questioning answering dataset.  QA-based source code comprehension is the ability to read a code snippet and then answer questions about it, which requires understanding both source code and natural language. 
 
-Given aa code snippet and a question, a textual answer need to be generated.
+Given a code snippet and a question, a textual answer need to be generated.
 
 QA-based source code comprehension has direct use in education to facilitate programming learning, where a system automatically answers questions about codes that someone has read.  A more gen
 eral use is to help improve software maintenance since it can advance the readability of code.
