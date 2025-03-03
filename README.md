@@ -17,7 +17,6 @@ This paper has done construction process(from comments) and conduct semantic ana
 QA-based source code comprehension has direct use in education to facilitate programming learning, where a system automatically answers questions about codes that someone has read.  A more gen
 eral use is to help improve software maintenance since it can advance the readability of code.
 
-Moreover, it can provide diverse information that can be
- leveraged to help perform a wide range of software
+Moreover, it can provide diverse information that can be leveraged to help perform a wide range of software
  engineering tasks, such as bug detection, specifica
 tion inference, testing and code synthesis.
