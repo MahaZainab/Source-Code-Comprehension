@@ -14,7 +14,8 @@ Moreover, it can provide diverse information that can be leveraged to help perfo
 ## Dataset
 Java Question Anwer Pairs: 119,7787
 
-Python Question Anwer Pairs: 70,085
+[Python](https://github.com/MahaZainab/CodeQA/tree/main/python) Question Anwer Pairs: 70,085 
+
 
 [Dataset Link](https://github.com/jadecxliu/CodeQA) 
 ## Methodology
