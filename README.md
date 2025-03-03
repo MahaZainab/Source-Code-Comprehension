@@ -23,7 +23,7 @@ This paper has done construction process(from comments) and conduct semantic ana
 
 ## Aim:
 
-1. extract only Python code from the dataset.
+1. Extract only Python code from the dataset.
 
 2. Start with a small subset of dataset  (~50 examples)
 
