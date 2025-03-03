@@ -29,4 +29,4 @@ This paper has done construction process(from comments) and conduct semantic ana
 
 3. Try with an open-source LLM of your choice to generate the answers
 
-4.  compare with gold-annotated answers.
+4. Compare with gold-annotated answers.
