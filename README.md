@@ -1,8 +1,7 @@
 # CodeQA
 
 ## Description:
-It is a questioning answering dataset.  QA-based source code comprehension is the ability to read a code snippet and then answer
- questions about it, which requires understanding
+It is a questioning answering dataset.  QA-based source code comprehension is the ability to read a code snippet and then answer questions about it, which requires understanding
  both source code and natural language. 
 
 Given aa code snippet and a question, a textual answer need to be generated.
