@@ -1,4 +1,4 @@
 # CodeQA
 
 ## Description:
-It is a questioning answering 
+It is a questioning answering dataset. 
