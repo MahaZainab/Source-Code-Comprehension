@@ -26,4 +26,7 @@ This paper has done construction process(from comments) and conduct semantic ana
 1. extract only Python code from the dataset.
 
 2. Start with a small subset of dataset  (~50 examples)
-3. Try with an open-source LLM of your choice to generate the answers and compare with gold-annotated answers.
+
+3. Try with an open-source LLM of your choice to generate the answers
+
+4.  compare with gold-annotated answers.
