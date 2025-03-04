@@ -21,7 +21,7 @@ Java Question Anwer Pairs: 119,7787
 ## Methodology
 This paper has done construction process(from comments) and conduct semantic analysis.
 
-## Ex
+## Experi
 ## Aim:
 
 1. Extract only Python code from the dataset.
