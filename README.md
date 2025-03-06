@@ -36,6 +36,8 @@ Seq2Seq
 
 Now assume LLMs are deployed in a tutoring system to teach students coding. 
 1. How good are LLMs providing answers?
+
 2. Can LLMs provide reasoning to the answers?
+
 3. Can LLMs teach step-by-step?
 
