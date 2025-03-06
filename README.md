@@ -34,3 +34,8 @@ Seq2Seq
 
 4. Compare with gold-annotated answers.
 
+Now assume LLMs are deployed in a tutoring system to teach students coding. 
+How good are LLMs providing answers?
+Can LLMs provide reasoning to the answers?
+Can LLMs teach step-by-step?
+
