@@ -56,4 +56,4 @@ Answer: No, for that purpose we need to add some keywords along with the query.
 
 #### 3. Can LLMs teach step-by-step?
 
-Answer: Yes, It can. however, we need to pass the 
+Answer: Yes, It can. however, we need to 
