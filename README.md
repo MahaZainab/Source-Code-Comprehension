@@ -40,7 +40,7 @@ Answer: 70,085 question answer pairs are used
 
 Answer:  Llama is used.
 
-4. Compare with gold-annotated answers.
+#### 4. Compare with gold-annotated answers.
 
 Answers: Both are giving satisfactory answers. Accuracy of LLM is higher than baseline systems.
 
