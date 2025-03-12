@@ -46,7 +46,7 @@ Answers: Both are giving satisfactory answers. Accuracy of LLM is higher than ba
 
 Now assume LLMs are deployed in a tutoring system to teach students coding. 
 
-1. How good are LLMs providing answers?
+#### 1. How good are LLMs providing answers?
 
 
 
