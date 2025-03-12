@@ -42,7 +42,7 @@ Answer:  Llama is used.
 
 4. Compare with gold-annotated answers.
 
-Answers: Both are giving satisfactory answers. Accuracy of LLM is higher than baseline systems
+Answers: Both are giving satisfactory answers. Accuracy of LLM is higher than baseline systems.
 Now assume LLMs are deployed in a tutoring system to teach students coding. 
 1. How good are LLMs providing answers?
 
