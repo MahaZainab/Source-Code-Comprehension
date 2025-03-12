@@ -52,6 +52,6 @@ Answer: The accuracy is high.
 
 #### 2. Can LLMs provide reasoning to the answers?
 
-Answer: No, for that purpose we need to add some keywords
+Answer: No, for that purpose we need to add some keywords along with 
 3. Can LLMs teach step-by-step?
 
