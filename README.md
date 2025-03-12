@@ -38,7 +38,7 @@ Answer: 70,085 question answer pairs are used
 
 3. Try with an open-source LLM of your choice to generate the answers
 
-Answer:  Llama is
+Answer:  Llama is used.
 4. Compare with gold-annotated answers.
 
 Now assume LLMs are deployed in a tutoring system to teach students coding. 
