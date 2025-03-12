@@ -57,4 +57,4 @@ Answer: No, for that purpose we need to add some keywords along with the query.
 
 Answer: Yes, It can. however, we need to modify the user query. or we need to modify our approach.
 
-I have  conducted two types of experiments and without vectorization it is giving us resoning and also teaching step by step. However, with cosine
+I have  conducted two types of experiments and without vectorization it is giving us resoning and also teaching step by step. However, with cosine similarity 
