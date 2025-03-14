@@ -61,4 +61,4 @@ Answer: Yes, It can. however, we need to modify the user query. or we need to mo
 
 I have  conducted two types of experiments and without vectorization it is giving us resoning and also teaching step by step. However, with cosine similarity it is just answering the question.
 
-###### Note: RAG 
+###### Note: Chain RAG 
